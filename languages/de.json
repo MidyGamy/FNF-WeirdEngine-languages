@@ -123,5 +123,9 @@
     "up":"Oben",
     "visualsUI":"Visuals und UI",
     "volume":"AUDIO",
-    "weekScore":"Wochen Punkte:"
+    "weekScore":"Wochen Punkte:",
+	"chartEdit": "Chart Editor",
+	"pauseOption": "Options",
+	"pauseCharSel": "Change Character",
+	"restartCut": "Restart With Cutscenes"
 }
