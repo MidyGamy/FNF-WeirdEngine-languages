@@ -3,6 +3,8 @@
 	
 	"_commentary": "_commentary arent useful for the game, it is just a guide",
 	
+	"flashingInfo": "Hey, watch out!\nThis Mod contains some flashing lights!\nPress ENTER to disable them now or go to Options Menu.\nPress ESCAPE to ignore this message.\nYou've been warned!",
+	
 	"updateInfoP1": "Sup bro, looks like you're running an \n outdated version of Weird Engine (",
 	"updateInfoP2": "),\n please update to ",
 	"updateInfoP3": "! \n Press ESCAPE to proceed anyway.",
