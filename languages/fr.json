@@ -3,10 +3,7 @@
 	
 	"_commentary": "_commentary arent useful for the game, it is just a guide",
 	
-	"updateInfoP1": "Yo mec, on dirrait que tu utilise une \n version obselète du Weird Engine (",
-	"updateInfoP2": "),\n SVP mettez à jour vers ",
-	"updateInfoP3": "! \n appuyez sur Echap pour continuer vers le jeu.",
-	"engineThanks": "Merci d'utiliser cet Engine!",
+	"flashingInfo": "Hé, attention !\nCe mod contient des lumières vives.\nAppuye sur ENTER pour les désactiver maintenant ou allez dans le menu Options.\nAppuyez sur ÉCHAP pour ignorer ce message.\nTu as été prévenu!",
 	
 	"_commentary1": "Story Mode Menu",
 	
@@ -21,35 +18,35 @@
 	
 	"_commentary3": "Gameplay Changers in Freeplay/Story Mode menus",
 	
-	"scrolltype": "Type defilement",
-	"scrollspeed": "Vitesse de defilement",
+	"scrolltype": "Type défilement",
+	"scrollspeed": "Vitesse de défilement",
 	"healthgain": "Multi de gain de PV",
 	"healthloss": "Multi de perte de PV",
-	"instakill": "Mort Instantane sur rate",
-	"practice": "Mode d'entrainement",
+	"instakill": "Mort Instantané sur raté",
+	"practice": "Mode d'entraînement",
 	"botplay": "Botplay",
 	
 	"_commentary4": "Pause Menu",
 	
 	"resume": "Reprendre",
 	"restart": "Recommencer la chanson",
-	"changeDiff": "Changer de difficulte",
+	"changeDiff": "Changer de difficulté",
 	"exit2Menu": "Retourner au menu",
 	"leaveChart": "Quitter le Charting Mode",
-	"skipTime": "Passer jusqu'a",
+	"skipTime": "Passer jusqu'à",
 	"endSong": "Finir la chanson",
-	"toggPract": "Basculer le Mode d'entrainement",
+	"toggPract": "Basculer le Mode d'entraînement",
 	"toggBot": "Basculer le Botplay",
-	"chartEdit": "Editeur de Chart",
+	"chartEdit": "Éditeur de Chart",
 	"pauseOption": "Options",
 	"pauseCharSel": "Changer de personnage",
-	"restartCut": "Recommencer avec Cinematiques",
+	"restartCut": "Recommencer avec Cinématiques",
 	
 	"_commentary5": "Option Menu",
 	
 	"language": "Langue",
 	"noteColors": "Couleurs des notes",
-	"controls": "Controles",
+	"controls": "Contrôles",
 	"delayCombo": "Adjuster Delais et Combo",
 	"graphics": "Graphiques",
 	"visualsUI": "Visuel et interface",
@@ -57,11 +54,11 @@
 	
 	"_commentary6": "Note colors Menu",
 	
-	"noteColorsSettings": "Teinte Saturation  Luminosite",
+	"noteColorsSettings": "Teinte Saturation  Luminosité",
 	
 	"_commentary7": "Controls Menu",
 	
-	"defaultKey": "Reinitialiser les touches",
+	"defaultKey": "Réinitialiser les touches",
 	"notes": "NOTES",
 	"key": "TOUCHE",
 	"keys": "TOUCHES",
@@ -75,7 +72,7 @@
 	"left":"Gauche",
 	"right":"Droite",
 	"center":"Milieu",
-	"reset": "Retablir",
+	"reset": "Rétablir",
 	"accept": "Accepter",
 	"pause": "Pause",
 	"mute": "Sourdine",
@@ -87,7 +84,7 @@
 	
 	"_commentary9": "Controls name",
 	
-	"control.controlBckSpc":"Retour arriere",
+	"control.controlBckSpc":"Retour arrière",
 	"controlSpace":"Espace",
 	"controlCaps":"Ver MAJ",
 	"controlPrtScrn":"ImpEcr",
@@ -96,27 +93,27 @@
 	
 	"_commentary10": "Graphics settings menu",
 	
-	"lowQuality": "Basse Qualite",
+	"lowQuality": "Basse Qualité",
 	"lowQualityDesc": "Si coché, désactive certains détails d'arrière-plan,\ndiminue les temps de chargement et améliore les performances.",
-	"globalAntialiasing": "Anticrenelage",
+	"globalAntialiasing": "Anticrénelage",
 	"globalAntialiasingDesc": "Si décoche, désactive l'anticrénelage, augmente les\nperformances au prix de visuels plus nets.",
-	"framerate": "Frequence d'images",
+	"framerate": "Fréquence d'images",
 	"framerateDesc": "Assez explicite, n'est-ce pas ?",
-	"onUnfocuPause": "Pause en arriere plan",
+	"onUnfocuPause": "Pause en arrière plan",
 	"onUnfocuPauseDesc": "Le jeu se met en pause dès que vous basculer sur un autre fenêtre.",
 	
 	"_commentary11": "HUD settings menu",
 	
-	"noteSplashes": "Eclabousure des notes",
+	"noteSplashes": "Éclabousure des notes",
 	"noteSplashesDesc": "Si elle n'est pas cochée, obtenir un \"Sick!\" n'affichera pas les particules.",
 	"hideHUD": "Cacher l'HUD",
 	"hideHUDDesc": "Si coché, masque la plupart des éléments du HUD.",
 	"timeBar": "Barre de temps :",
 	"timeBarDesc": "Que doit afficher la barre de temps ?",
 	"timeBarOpt": ["Temps restant", "Temps passe", "Nom chanson", "Desactive"],
-	"flashingLights": "Lumieres vives",
+	"flashingLights": "Lumières vives",
 	"flashingLightsDesc": "Décochez cette case si vous êtes sensible aux lumières vives !",
-	"cameraZoom": "Zooms de camera",
+	"cameraZoom": "Zooms de caméra",
 	"cameraZoomDesc": "Si elle n'est pas cochée, la caméra ne zoomera pas sur un beat hit.",
 	"textZoom": "Score Texte Zoom sur Coup",
 	"textZoomDesc": "Si décoché, désactive le zoom du\ntexte de la partition chaque fois que vous\nfrappez une note.",
@@ -139,14 +136,14 @@
 	"ghostTappingDesc": "Si coché, vous n'obtiendrez pas de ratés en appuyant sur les\ntouches tant qu'il n'y a pas de notes pouvant être frappées.",
 	"noAntimash": "Pas d'Antimash",
 	"noAntimashDesc": "Si coché, l'Antimash sera désactivé.",
-	"noReset": "Desactiver la reinitialisation",
+	"noReset": "Désactiver la réinitialisation",
 	"noResetDesc": "Si coché, appuyer sur Réinitialiser ne fera rien.",
 	"hitsoundVolume": "Volume de Frape",
 	"hitsoundVolumeDesc": "Les notes font un \"Tic !\" amusant\nlorsque vous les frappez.",
-	"ratingOffset": "Decalage de notation",
+	"ratingOffset": "Décalage de notation",
 	"ratingOffsetDesc": "Modifie l'heure à laquelle vous devez frapper pour un \"Sick!\"\nDes valeurs plus élevées signifient que vous devez frapper plus tard.",
-	"hitWindow": "Fenetre de frape de @[rating]",
+	"hitWindow": "Fenêtre de frape de @[rating]",
 	"hitWindowDesc": "Modifie le temps dont vous disposez\npour frapper un \"@[rating]\" en millisecondes.",
-	"safeFrames": "Frames de surete",
+	"safeFrames": "Frames de sureté",
 	"safeFramesDesc": "Modifie le nombre de frames dont vous disposez\npour jouer une note plus tôt ou plus tard."
 }
