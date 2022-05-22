@@ -74,12 +74,13 @@
 	"accept": "Accept",
 	"pause": "Pause",
 	"mute": "Mute",
+	"fullscreen": "Fullscreen",
 	
 
 	"back": "Back",
 	"none": "None",
 	
-	"control.controlBckSpc":"BckSpc",
+	"controlBckSpc":"BckSpc",
 	"controlSpace":"Space",
 	"controlCaps":"Caps",
 	"controlPrtScrn":"PrtScrn",

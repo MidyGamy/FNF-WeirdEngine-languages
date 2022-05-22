@@ -74,13 +74,14 @@
 	"accept": "Accepter",
 	"pause": "Pause",
 	"mute": "Sourdine",
+	"fullscreen": "Plein écran",
 	
 	
 	"back": "Retour",
 	"none": "Rien",
 	
 	
-	"control.controlBckSpc":"Retour arrière",
+	"controlBckSpc":"Ret.arr",
 	"controlSpace":"Espace",
 	"controlCaps":"Ver MAJ",
 	"controlPrtScrn":"ImpEcr",
