@@ -1,27 +1,24 @@
 {
 	"language-name": "English",
 	
-	"_commentary": "_commentary arent useful for the game, it is just a guide",
 	
 	"flashingInfo": "Hey, watch out!\nThis Mod contains some flashing lights!\nPress ENTER to disable them now or go to Options Menu.\nPress ESCAPE to ignore this message.\nYou've been warned!",
 	
+
 	"updateInfoP1": "Sup bro, looks like you're running an \n outdated version of Weird Engine (",
 	"updateInfoP2": "),\n please update to ",
-	"updateInfoP3": "! \n Press ESCAPE to proceed anyway.",
+	"updateInfoP3": "! \n Press BACK to proceed anyway.",
 	"engineThanks": "Thank you for using the Engine!",
 	
-	"_commentary1": "Story Mode Menu",
 	
 	"weekScore": "WEEK SCORE:",
 	
-	"_commentary2": "Freeplay Menu",
 	
 	"freeplayInfo1": "Press SPACE to listen to the Song.",
 	"freeplayInfo2": "Press CTRL to open the Gameplay Changers Menu.",
 	"freeplayInfo3": "Press RESET to Reset your Score and Accuracy.",
 	"scoreText": "PERSONAL BEST:",
 	
-	"_commentary3": "Gameplay Changers in Freeplay/Story Mode menus",
 	
 	"scrolltype": "Scroll Type",
 	"scrollspeed": "Scroll Speed",
@@ -31,7 +28,6 @@
 	"practice": "Practice Mode",
 	"botplay": "Botplay",
 	
-	"_commentary4": "Pause Menu",
 	
 	"resume": "Resume",
 	"restart": "Restart Song",
@@ -47,7 +43,6 @@
 	"pauseCharSel": "Change Character",
 	"restartCut": "Restart With Cutscenes",
 	
-	"_commentary5": "Option Menu",
 	
 	"language": "Language",
 	"noteColors": "Note Colors",
@@ -57,11 +52,9 @@
 	"visualsUI": "Visuals and UI",
 	"gameplay": "Gameplay",
 	
-	"_commentary6": "Note colors Menu",
 	
 	"noteColorsSettings": "Hue    Saturation  Brightness",
 	
-	"_commentary7": "Controls Menu",
 	
 	"defaultKey": "Reset to Default Keys",
 	"notes": "NOTES",
@@ -82,12 +75,9 @@
 	"pause": "Pause",
 	"mute": "Mute",
 	
-	"_commentary8": "Global things",
-	
+
 	"back": "Back",
 	"none": "None",
-	
-	"_commentary9": "Controls name",
 	
 	"control.controlBckSpc":"BckSpc",
 	"controlSpace":"Space",
@@ -96,8 +86,14 @@
 	"controlEnter":"Enter",
 	"controlEscape":"Escape",
 	
-	"_commentary10": "Graphics settings menu",
+
+	"comboMenu": "Combo Offset (Press Accept to Switch)",
+	"ratingOffsetPos": "Raiting Offset:",
+	"numberOffsetPos": "Number Offset:",
+	"delayOffsetMenu": "Note/Beat Delay (Press Accept to Switch)",
+	"curentOffset": "Current offset:",
 	
+
 	"lowQuality": "Low Quality",
 	"lowQualityDesc": "If checked, disables some background details,\ndecreases loading times and improves performance.",
 	"globalAntialiasing": "Anti-Aliasing",
@@ -106,8 +102,7 @@
 	"framerateDesc": "Pretty self explanatory, isn't it?",
 	"onUnfocuPause": "Unfocus Pause",
 	"onUnfocuPauseDesc": "The game pauses when you switch to an other window.",
-	
-	"_commentary11": "HUD settings menu",
+
 	
 	"noteSplashes": "Notes Splashes",
 	"noteSplashesDesc": "If unchecked, hitting \"Sick!\" notes won't show particles.",
@@ -128,8 +123,7 @@
 	"showFPSDesc": "If unchecked, hides FPS Counter.",
 	"pauseMusic": "Pause Screen Song:",
 	"pauseMusicDesc": "What song do you prefer for the Pause Screen?",
-	
-	"_commentary12": "Gameplay settings menu",
+
 	
 	"keyboardMode": "Keyboard Mode",
 	"keyboardModeDesc": "Check this if you want to play with\nyour keyboard instead of your\non screen hitbox (will hide the hitbox).",

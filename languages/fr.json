@@ -1,22 +1,24 @@
 {
 	"language-name": "Francais",
-	
-	"_commentary": "_commentary arent useful for the game, it is just a guide",
+
 	
 	"flashingInfo": "Hé, attention !\nCe mod contient des lumières vives.\nAppuye sur ENTER pour les désactiver maintenant ou allez dans le menu Options.\nAppuyez sur ÉCHAP pour ignorer ce message.\nTu as été prévenu!",
 	
-	"_commentary1": "Story Mode Menu",
+	
+	"updateInfoP1": "Quoi d'neuf mec, on dirrait que tu tourne \n sur une version obselète du Weird Engine (",
+	"updateInfoP2": "),\n veuillier mettre à jour vers ",
+	"updateInfoP3": "! \n Faite RETOUR pour quand même continuer.",
+	"engineThanks": "Merci d'utiliser cet Engine!",
+	
 	
 	"weekScore": "SCORE DE LA SEMAINE :",
 	
-	"_commentary2": "Freeplay Menu",
 	
 	"freeplayInfo1": "Appuyez sur ESPACE pour écouter le morceau.",
 	"freeplayInfo2": "Appuyez sur CTRL pour ouvrir le menu Gameplay Changers.",
 	"freeplayInfo3": "Appuyez sur RESET pour réinitialiser votre score et votre précision.",
 	"scoreText": "RECORD PERSONNEL :",
 	
-	"_commentary3": "Gameplay Changers in Freeplay/Story Mode menus",
 	
 	"scrolltype": "Type défilement",
 	"scrollspeed": "Vitesse de défilement",
@@ -26,7 +28,6 @@
 	"practice": "Mode d'entraînement",
 	"botplay": "Botplay",
 	
-	"_commentary4": "Pause Menu",
 	
 	"resume": "Reprendre",
 	"restart": "Recommencer la chanson",
@@ -42,7 +43,6 @@
 	"pauseCharSel": "Changer de personnage",
 	"restartCut": "Recommencer avec Cinématiques",
 	
-	"_commentary5": "Option Menu",
 	
 	"language": "Langue",
 	"noteColors": "Couleurs des notes",
@@ -52,11 +52,9 @@
 	"visualsUI": "Visuel et interface",
 	"gameplay": "Gameplay",
 	
-	"_commentary6": "Note colors Menu",
 	
 	"noteColorsSettings": "Teinte Saturation  Luminosité",
 	
-	"_commentary7": "Controls Menu",
 	
 	"defaultKey": "Réinitialiser les touches",
 	"notes": "NOTES",
@@ -77,12 +75,10 @@
 	"pause": "Pause",
 	"mute": "Sourdine",
 	
-	"_commentary8": "Global things",
 	
 	"back": "Retour",
 	"none": "Rien",
 	
-	"_commentary9": "Controls name",
 	
 	"control.controlBckSpc":"Retour arrière",
 	"controlSpace":"Espace",
@@ -91,7 +87,13 @@
 	"controlEnter":"Entrer",
 	"controlEscape":"Echap",
 	
-	"_commentary10": "Graphics settings menu",
+
+	"comboMenu": "Combo Offset (Press Accept to Switch)",
+	"ratingOffsetPos": "Raiting Offset:",
+	"numberOffsetPos": "Number Offset:",
+	"delayOffsetMenu": "Note/Beat Delay (Press Accept to Switch)",
+	"curentOffset": "Current offset:",
+	
 	
 	"lowQuality": "Basse Qualité",
 	"lowQualityDesc": "Si coché, désactive certains détails d'arrière-plan,\ndiminue les temps de chargement et améliore les performances.",
@@ -102,7 +104,6 @@
 	"onUnfocuPause": "Pause en arrière plan",
 	"onUnfocuPauseDesc": "Le jeu se met en pause dès que vous basculer sur un autre fenêtre.",
 	
-	"_commentary11": "HUD settings menu",
 	
 	"noteSplashes": "Éclabousure des notes",
 	"noteSplashesDesc": "Si elle n'est pas cochée, obtenir un \"Sick!\" n'affichera pas les particules.",
@@ -124,7 +125,6 @@
 	"pauseMusic": "Musique de pause:",
 	"pauseMusicDesc": "Quelle chanson préférez-vous pour\nl'écran de pause ?",
 	
-	"_commentary12": "Gameplay settings menu",
 	
 	"keyboardMode": "Mode clavier",
 	"keyboardModeDesc": "Cochez si vous voulez jouer avec un clavier au\n lieu de jouer avec les boites à l'écran (cachera les boites de touche).",
