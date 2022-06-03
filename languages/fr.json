@@ -2,7 +2,7 @@
 	"language-name": "Francais",
 
 	
-	"flashingInfo": "Hé, attention !\nCe mod contient des lumières vives.\nAppuye sur ENTER pour les désactiver maintenant ou allez dans le menu Options.\nAppuyez sur ÉCHAP pour ignorer ce message.\nTu as été prévenu!",
+	"flashingInfo": "Hé, attention !\nCe mod contient des lumières vives.\nAppuye sur ENTER pour les désactiver maintenant ou allez dans le menu Options.\nAppuyez sur ÉCHAP pour ignorer ce message.\nTu as été prévenu!",
 	
 	
 	"updateInfoP1": "Quoi d'neuf mec, on dirrait que tu tourne \n sur une version obselète du Weird Engine (",
@@ -89,11 +89,11 @@
 	"controlEscape":"Echap",
 	
 
-	"comboMenu": "Combo Offset (Press Accept to Switch)",
-	"ratingOffsetPos": "Raiting Offset:",
-	"numberOffsetPos": "Number Offset:",
-	"delayOffsetMenu": "Note/Beat Delay (Press Accept to Switch)",
-	"curentOffset": "Current offset:",
+	"comboMenu": "Décalage du combo (Appuyez sur accepter pour changer)",
+	"ratingOffsetPos": "Décalage évaluation:",
+	"numberOffsetPos": "Décalage nombres:",
+	"delayOffsetMenu": "Décalage audio (Appuyez sur accepter pour changer)",
+	"curentOffset": "Décalage actuel:",
 	
 	
 	"lowQuality": "Basse Qualité",
@@ -127,6 +127,8 @@
 	"pauseMusicDesc": "Quelle chanson préférez-vous pour\nl'écran de pause ?",
 	"raitingInStage": "Combo dans le terrain",
 	"raitingInStageDesc": "Est-ce que le combo et l'évaluation se trouve dans le terrain ?",
+	"vibration": "Vibration au GameOver",
+	"vibrationDesc": "Si coché, le jeu vibrera lorsque vous mourez.",
 	
 	
 	"keyboardMode": "Mode clavier",

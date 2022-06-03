@@ -126,6 +126,8 @@
 	"pauseMusicDesc": "What song do you prefer for the Pause Screen?",
 	"raitingInStage": "Raiting in stage",
 	"raitingInStageDesc": "Does the raiting and combo are in the stage?",
+	"vibration": "GameOver Vibration",
+	"vibrationDesc": "If checked, will make the game to vibrate when you die.",
 
 	
 	"keyboardMode": "Keyboard Mode",
