@@ -125,6 +125,8 @@
 	"showFPSDesc": "Si décoché, masque le compteur de FPS.",
 	"pauseMusic": "Musique de pause:",
 	"pauseMusicDesc": "Quelle chanson préférez-vous pour\nl'écran de pause ?",
+	"raitingInStage": "Combo dans le terrain",
+	"raitingInStageDesc": "Est-ce que le combo et l'évaluation se trouve dans le terrain ?",
 	
 	
 	"keyboardMode": "Mode clavier",

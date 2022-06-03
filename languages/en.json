@@ -124,6 +124,8 @@
 	"showFPSDesc": "If unchecked, hides FPS Counter.",
 	"pauseMusic": "Pause Screen Song:",
 	"pauseMusicDesc": "What song do you prefer for the Pause Screen?",
+	"raitingInStage": "Raiting in stage",
+	"raitingInStageDesc": "Does the raiting and combo are in the stage?",
 
 	
 	"keyboardMode": "Keyboard Mode",
