@@ -17,9 +17,9 @@
 	"weekScore": "SCORE DE LA SEMAINE :",
 	
 	
-	"freeplayInfo1": "Appuyez sur ESPACE pour écouter le morceau.",
-	"freeplayInfo2": "Appuyez sur CTRL pour ouvrir le menu Gameplay Changers.",
-	"freeplayInfo3": "Appuyez sur RESET pour réinitialiser votre score et votre précision.",
+	"freeplayInfo1": "Appuyez sur @[control] pour écouter le morceau.",
+	"freeplayInfo2": "Appuyez sur @[control] pour ouvrir le menu Gameplay Changers.",
+	"freeplayInfo3": "Appuyez sur @[control] pour réinitialiser votre score et votre précision.",
 	"scoreText": "RECORD PERSONNEL :",
 	
 	
