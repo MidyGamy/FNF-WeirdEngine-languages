@@ -1,13 +1,16 @@
 {
-	"languageName": "Francais",
+	"languageName": "Français",
 
 	
 	"flashingInfo": "Hé, attention !\nCe mod contient des lumières vives.\nAppuye sur ENTER pour les désactiver maintenant ou allez dans le menu Options.\nAppuyez sur ÉCHAP pour ignorer ce message.\nTu as été prévenu!",
 	
 	
-	"updateInfoP1": "Quoi d'neuf mec, on dirrait que tu tourne \n sur une version obselète du Weird Engine (",
-	"updateInfoP2": "),\n veuillier mettre à jour vers ",
-	"updateInfoP3": "! \n Faite RETOUR pour quand même continuer.",
+	"updateInfoP1": "Quoi d'neuf mec, on dirrait que tu tourne\nsur une version obselète du Weird Engine (",
+	"updateInfoP2": "),\nveuillier mettre à jour vers ",
+	"updateInfoP3": "!\nFaite RETOUR pour quand même continuer.",
+	"psychUpdateInfoP1": "Quoi d'neuf mec, on dirrait que tu tourne \n sur une version du Weird Engine incompatibleavec\nla dernière version de Psych Engine (",
+	"psychUpdateInfoP2": "),\nvous pouvez avoir Psych Engine V",
+	"psychUpdateInfoP3": "!\nFaite RETOUR pour quand même continuer.",
 	"engineThanks": "Merci d'utiliser cet Engine!",
 	
 	
@@ -51,6 +54,7 @@
 	"graphics": "Graphiques",
 	"visualsUI": "Visuel et interface",
 	"gameplay": "Gameplay",
+	"preferences": "Préférences",
 	
 	
 	"noteColorsSettings": "Teinte Saturation  Luminosité",
@@ -79,6 +83,7 @@
 	
 	"back": "Retour",
 	"none": "Rien",
+	"missingFiles": "Fichiers Manquants",
 	
 	
 	"controlBckSpc":"Ret.arr",
@@ -100,8 +105,10 @@
 	"lowQualityDesc": "Si coché, désactive certains détails d'arrière-plan,\ndiminue les temps de chargement et améliore les performances.",
 	"globalAntialiasing": "Anticrénelage",
 	"globalAntialiasingDesc": "Si décoche, désactive l'anticrénelage, augmente les\nperformances au prix de visuels plus nets.",
+	"persistentCachedData": "Données mises en cache persistantes",
+	"persistentCachedDataDesc": "Si coché, les images chargées resteront en mémoire\njusqu'à ce que le jeu soit fermé, ce qui augmente\nl'utilisation de la mémoire, mais rend essentiellement\nles temps de rechargement instantanés.",
 	"framerate": "Fréquence d'images",
-	"framerateDesc": "Assez explicite, n'est-ce pas ?",
+	"framerateDesc": "Assez explicite, n'est-ce pas ?\nLa valeurs par défaut est de 60.",
 	"onUnfocuPause": "Pause en arrière plan",
 	"onUnfocuPauseDesc": "Le jeu se met en pause dès que vous basculer sur un autre fenêtre.",
 	
@@ -110,6 +117,8 @@
 	"noteSplashesDesc": "Si elle n'est pas cochée, obtenir un \"Sick!\" n'affichera pas les particules.",
 	"hideHUD": "Cacher l'HUD",
 	"hideHUDDesc": "Si coché, masque la plupart des éléments du HUD.",
+	"hideTimeBar": "Cacher le temps de la chanson",
+	"hideTimeBarDesc": "Si cochée, la barre indiquant le\ntemps restant sera masquée.",
 	"timeBar": "Barre de temps :",
 	"timeBarDesc": "Que doit afficher la barre de temps ?",
 	"timeBarOpt": ["Temps restant", "Temps passe", "Nom chanson", "Desactive"],
@@ -129,6 +138,10 @@
 	"raitingInStageDesc": "Est-ce que le combo et l'évaluation se trouve dans le terrain ?",
 	"vibration": "Vibration au GameOver",
 	"vibrationDesc": "Si coché, le jeu vibrera lorsque vous mourez.",
+	"updates": "Check les MAJ",
+	"updatesDesc": "Activez cette option pour vérifier les mises à jour lorsque vous démarrez le jeu.",
+	"psychUpdates": "Check les MAJ de Psych",
+	"psychUpdatesDesc": "Certains mods plus récents pourraient être incompatibles avec Weird Engine.",
 	
 	
 	"keyboardMode": "Mode clavier",
@@ -141,8 +154,14 @@
 	"ghostTappingDesc": "Si coché, vous n'obtiendrez pas de ratés en appuyant sur les\ntouches tant qu'il n'y a pas de notes pouvant être frappées.",
 	"noAntimash": "Pas d'Antimash",
 	"noAntimashDesc": "Si coché, l'Antimash sera désactivé.",
+	"oppNotes": "Notes des opposants",
+	"oppNotesDesc": "Si décoché, les notes des opposants seront cachées.",
+	"noteDelay": "Décalage des notes",
+	"noteDelayDesc": "Modifie le délai d'apparition d'une note.\nUtile pour éviter le décalage audio des écouteurs sans fil.",
 	"noReset": "Désactiver la réinitialisation",
 	"noResetDesc": "Si coché, appuyer sur Réinitialiser ne fera rien.",
+	"soundEffectVolume": "Volume des Effets",
+	"soundEffectVolumeDesc": "À quelle hauteur vous entendez des choses en jeu comme les voitures, les trains...",
 	"hitsoundVolume": "Volume de Frape",
 	"hitsoundVolumeDesc": "Les notes font un \"Tic !\" amusant\nlorsque vous les frappez.",
 	"ratingOffset": "Décalage de notation",

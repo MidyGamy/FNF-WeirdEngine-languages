@@ -17,9 +17,9 @@
 	"weekScore": "WEEK SCORE:",
 	
 	
-	"freeplayInfo1": "Press SPACE to listen to the Song.",
-	"freeplayInfo2": "Press CTRL to open the Gameplay Changers Menu.",
-	"freeplayInfo3": "Press RESET to Reset your Score and Accuracy.",
+	"freeplayInfo1": "Press @[control] to listen to the Song.",
+	"freeplayInfo2": "Press @[control] to open the Gameplay Changers Menu.",
+	"freeplayInfo3": "Press @[control] to Reset your Score and Accuracy.",
 	"scoreText": "PERSONAL BEST:",
 	
 	
@@ -54,6 +54,7 @@
 	"graphics": "Graphics",
 	"visualsUI": "Visuals and UI",
 	"gameplay": "Gameplay",
+	"preferences": "Preferences",
 	
 	
 	"noteColorsSettings": "Hue    Saturation  Brightness",
@@ -103,8 +104,10 @@
 	"lowQualityDesc": "If checked, disables some background details,\ndecreases loading times and improves performance.",
 	"globalAntialiasing": "Anti-Aliasing",
 	"globalAntialiasingDesc": "If unchecked, disables anti-aliasing, increases performance\nat the cost of sharper visuals.",
+	"persistentCachedData": "Persistent Cached Data",
+	"persistentCachedDataDesc": "If checked, images loaded will stay in memory\nuntil the game is closed, this increases memory usage,\nbut basically makes reloading times instant.",
 	"framerate": "Framerate",
-	"framerateDesc": "Pretty self explanatory, isn't it?",
+	"framerateDesc": "Pretty self explanatory, isn't it?\nDefault value is 60.",
 	"onUnfocuPause": "Unfocus Pause",
 	"onUnfocuPauseDesc": "The game pauses when you switch to an other window.",
 
@@ -113,6 +116,8 @@
 	"noteSplashesDesc": "If unchecked, hitting \"Sick!\" notes won't show particles.",
 	"hideHUD": "Hide HUD",
 	"hideHUDDesc": "If checked, hides most HUD elements.",
+	"hideTimeBar": "Hide Song Length",
+	"hideTimeBarDesc": "If checked, the bar showing how much time is left\nwill be hidden.",
 	"timeBar": "Time Bar:",
 	"timeBarDesc": "What should the Time Bar display?",
 	"timeBarOpt": ["Time Left", "Time Elapsed", "Song Name", "Disabled"],
@@ -152,6 +157,8 @@
 	"noAntimashDesc": "If checked, Antimash will be disabled.",
 	"soundEffectVolume": "Sound Effect Volume",
 	"soundEffectVolumeDesc": "How much you hear things in game like cars, trains...",
+	"noteDelay": "Note Delay",
+	"noteDelayDesc": "Changes how late a note is spawned.\nUseful for preventing audio lag from wireless earphones.",
 	"noReset": "Disable Reset Button",
 	"noResetDesc": "If checked, pressing Reset won't do anything.",
 	"hitsoundVolume": "Hitsound Volume",
