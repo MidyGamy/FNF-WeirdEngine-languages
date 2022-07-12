@@ -5,9 +5,12 @@
 	"flashingInfo": "Hey, watch out!\nThis Mod contains some flashing lights!\nPress ENTER to disable them now or go to Options Menu.\nPress ESCAPE to ignore this message.\nYou've been warned!",
 	
 
-	"updateInfoP1": "Sup bro, looks like you're running an \n outdated version of Weird Engine (",
-	"updateInfoP2": "),\n please update to ",
-	"updateInfoP3": "! \n Press BACK to proceed anyway.",
+	"updateInfoP1": "Sup bro, looks like you're running an\noutdated version of Weird Engine (",
+	"updateInfoP2": "),\nplease update to ",
+	"updateInfoP3": "!\nPress BACK to proceed anyway.",
+	"psychUpdateInfoP1": "Sup bro, looks like you're running an \n version of Weird Engine which isn't compatible with\n the laster version of Psych Engine (",
+	"psychUpdateInfoP2": "),\nyou can have Psych Engine V",
+	"psychUpdateInfoP3": "!\nPress BACK to proceed anyway.",
 	"engineThanks": "Thank you for using the Engine!",
 	
 	
@@ -79,6 +82,7 @@
 
 	"back": "Back",
 	"none": "None",
+	"missingFiles": "Missing Files",
 	
 	"controlBckSpc":"BckSpc",
 	"controlSpace":"Space",
@@ -128,6 +132,10 @@
 	"raitingInStageDesc": "Does the raiting and combo are in the stage?",
 	"vibration": "GameOver Vibration",
 	"vibrationDesc": "If checked, will make the game to vibrate when you die.",
+	"updates": "Check for Updates",
+	"updatesDesc": "On Release builds, turn this on to check for updates when you start the game.",
+	"psychUpdates": "Check for Psych Updates",
+	"psychUpdatesDesc": "Some newer mods could be incompatible with Weird Engine.",
 
 	
 	"keyboardMode": "Keyboard Mode",
@@ -138,8 +146,12 @@
 	"middleScrollDesc": "If checked, your notes get centered.",
 	"ghostTapping": "Ghost Tapping",
 	"ghostTappingDesc": "If checked, you won't get misses from pressing keys\nwhile there are no notes able to be hit.",
+	"oppNotes": "Opponent Notes",
+	"oppNotesDesc": "If unchecked, opponent notes get hidden.",
 	"noAntimash": "No Antimash",
 	"noAntimashDesc": "If checked, Antimash will be disabled.",
+	"soundEffectVolume": "Sound Effect Volume",
+	"soundEffectVolumeDesc": "How much you hear things in game like cars, trains...",
 	"noReset": "Disable Reset Button",
 	"noResetDesc": "If checked, pressing Reset won't do anything.",
 	"hitsoundVolume": "Hitsound Volume",
