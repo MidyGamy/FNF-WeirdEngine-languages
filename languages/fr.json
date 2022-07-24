@@ -95,10 +95,10 @@
 	
 
 	"comboMenu": "Décalage du combo (Appuyez sur accepter pour changer)",
-	"ratingOffsetPos": "Décalage évaluation:",
-	"numberOffsetPos": "Décalage nombres:",
+	"ratingOffsetPos": "Décalage évaluation :",
+	"numberOffsetPos": "Décalage nombres :",
 	"delayOffsetMenu": "Décalage audio (Appuyez sur accepter pour changer)",
-	"curentOffset": "Décalage actuel:",
+	"curentOffset": "Décalage actuel :",
 	
 	
 	"lowQuality": "Basse Qualité",
@@ -107,8 +107,8 @@
 	"globalAntialiasingDesc": "Si décoche, désactive l'anticrénelage, augmente les\nperformances au prix de visuels plus nets.",
 	"persistentCachedData": "Garder le cache",
 	"persistentCachedDataDesc": "Si coché, les images chargées resteront en mémoire\njusqu'à ce que le jeu soit fermé, ce qui augmente\nl'utilisation de la mémoire, mais rend essentiellement\nles temps de rechargement instantanés.",
-	"framerate": "Fréquence d'images",
-	"framerateDesc": "Assez explicite, n'est-ce pas ?\nLa valeurs par défaut est de 60.",
+	"framerate": "Image par sec :",
+	"framerateDesc": "Assez explicite, n'est-ce pas ?",
 	"onUnfocuPause": "Pause en arrière plan",
 	"onUnfocuPauseDesc": "Le jeu se met en pause dès que vous basculer sur un autre fenêtre.",
 	
@@ -136,7 +136,7 @@
 	"HPbarAlphaDesc": "Dans quelle mesure la barre de santé et les icônes doivent-elles être transparentes.",
 	"showFPS": "Compteur de FPS",
 	"showFPSDesc": "Si décoché, masque le compteur de FPS.",
-	"pauseMusic": "Musique de pause:",
+	"pauseMusic": "Musique de pause :",
 	"pauseMusicDesc": "Quelle chanson préférez-vous pour\nl'écran de pause ?",
 	"raitingInStage": "Combo dans le terrain",
 	"raitingInStageDesc": "Est-ce que le combo et l'évaluation se trouve dans le terrain ?",

@@ -106,8 +106,8 @@
 	"globalAntialiasingDesc": "If unchecked, disables anti-aliasing, increases performance\nat the cost of sharper visuals.",
 	"persistentCachedData": "Persistent Cached Data",
 	"persistentCachedDataDesc": "If checked, images loaded will stay in memory\nuntil the game is closed, this increases memory usage,\nbut basically makes reloading times instant.",
-	"framerate": "Framerate",
-	"framerateDesc": "Pretty self explanatory, isn't it?\nDefault value is 60.",
+	"framerate": "Framerate:",
+	"framerateDesc": "Pretty self explanatory, isn't it?",
 	"onUnfocuPause": "Unfocus Pause",
 	"onUnfocuPauseDesc": "The game pauses when you switch to an other window.",
 
